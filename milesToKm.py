@@ -1,29 +1,4 @@
 from tkinter import *
-# def btn_clicked():
-#     my_label.config(text=input.get())
-#
-#
-# window = Tk()
-# window.minsize(width=500, height=300)
-# window.title("GUI using tkinter")
-# window.config(padx=15, pady=15)
-#
-# my_label = Label(text="I am a Label", font=("Arial", 20, "bold"))
-# my_label.grid(column=0, row=0)
-# my_label.config(padx=10, pady=10)
-#
-# my_btn1 = Button(text="Click me", command=btn_clicked)
-# my_btn1.grid(column=1, row=1)
-# my_btn1.config(padx=10, pady=10)
-#
-# my_btn2 = Button(text="Hello")
-# my_btn2.grid(column=2, row=0)
-# my_btn2.config(padx=10, pady=10)
-#
-# input = Entry(width=10)
-# input.grid(column=3, row=2)
-#
-# window.mainloop()
 
 window = Tk()
 window.title("Mile to Km Converter")
